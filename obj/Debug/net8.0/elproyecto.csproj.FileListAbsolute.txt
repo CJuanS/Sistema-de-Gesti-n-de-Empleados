@@ -1,0 +1,14 @@
+/home/Coder/Documentos/CJC#/elproyecto/bin/Debug/net8.0/elproyecto
+/home/Coder/Documentos/CJC#/elproyecto/bin/Debug/net8.0/elproyecto.deps.json
+/home/Coder/Documentos/CJC#/elproyecto/bin/Debug/net8.0/elproyecto.runtimeconfig.json
+/home/Coder/Documentos/CJC#/elproyecto/bin/Debug/net8.0/elproyecto.dll
+/home/Coder/Documentos/CJC#/elproyecto/bin/Debug/net8.0/elproyecto.pdb
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.AssemblyInfoInputs.cache
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.AssemblyInfo.cs
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.csproj.CoreCompileInputs.cache
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.dll
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/refint/elproyecto.dll
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.pdb
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/elproyecto.genruntimeconfig.cache
+/home/Coder/Documentos/CJC#/elproyecto/obj/Debug/net8.0/ref/elproyecto.dll
